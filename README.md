@@ -1,0 +1,30 @@
+# Friday 13 November 2026 — The World's News in One Picture
+
+A newspaper front page that sums up Friday 13 November 2026 in one image:
+34 stories across 6 continents, with a world map pinning where each story
+happened. Built from the verified reporting of 13 November 2026
+(AP, Reuters, AFP, BBC, Al Jazeera, CNBC).
+
+The program copies the deterministic front page (`entry.png`) to
+`/output/entry.png`. The front page itself is drawn by
+`build_frontpage.py` (Pillow, real world outline from Natural Earth data),
+so every run produces the same bytes.
+
+## The 12 big stories
+
+1. FAA grounds all US departures as air-traffic telecoms fail
+2. Iran says it destroyed a US radar in Bahrain; US denies it
+3. Trump, Xi and Putin to meet in China next week
+4. Ukraine fires about 1,200 drones at Russia
+5. Nvidia closes below $4 trillion
+6. Starship Flight 15 reaches orbit
+7. Russian drone sets Kyiv medical centre on fire
+8. Pope Leo XIV says Mass in Chiclayo
+9. Tanker hits cruise boat in New Orleans
+10. Bus–truck crash kills 24 in Assam
+11. Türkiye and Qatar sign defence pact
+12. Microsoft 365 outage runs into a 2nd day
+
+Plus 22 more stories (13–34) in the "Also on Friday 13 November" list,
+including Taiwan's account of China's unannounced Pacific drills, the IEA
+oil-surplus forecast, and Indonesia's vice president resigning.
